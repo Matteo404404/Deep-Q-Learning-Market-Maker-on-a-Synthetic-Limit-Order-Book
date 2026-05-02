@@ -1,0 +1,32 @@
+env:
+  episode_steps: 300
+  inventory_limit: 10.0
+  use_vol_features: true
+  inv_penalty_alpha: 0.001
+  inv_penalty_beta: 0.0005
+  sim_kwargs:
+    initial_price: 100.0
+    sigma: 0.02
+    tick_size: 0.01
+    dt: 1.0
+    lambda_market: 5.0
+    lambda_limit: 8.0
+    lambda_cancel: 0.1
+  as_kwargs:
+    gamma: 0.1
+    kappa: 1.5
+
+agent:
+  learning_rate: 0.0001
+  buffer_size: 100000
+  batch_size: 128
+  gamma: 0.99
+  exploration_fraction: 0.5
+  exploration_final_eps: 0.02
+  target_update_interval: 200
+  learning_starts: 2000
+
+training:
+  total_timesteps: 200000
+  eval_freq: 5000
+  seed: 42

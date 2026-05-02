@@ -1,0 +1,1 @@
+earning_starts: int = 2000

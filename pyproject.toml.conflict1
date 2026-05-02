@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rl_market_maker"
+version = "0.1.0"
+description = "RL-driven market making with learned volatility"
+requires-python = ">=3.10"
+dependencies = ["numpy", "pandas", "gymnasium", "pyyaml", "matplotlib", "streamlit"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
