@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+
+# Model checkpoints and training artifacts (keep only final models)
+data/processed/simulations/dqn_mm_*_steps.zip
+data/processed/simulations/tb_logs/
+data/processed/simulations/evaluations.npz
+
+# Duplicate package folders (only src/ is canonical)
+rl_market_maker/
+
+# Conflict files
+*.conflict1
+*.conflict2
+
+# OS
+.DS_Store
