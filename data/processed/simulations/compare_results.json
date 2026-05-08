@@ -1,143 +1,143 @@
 {
   "AS": [
     {
-      "total_pnl": 132.0809503601747,
-      "sharpe": 3.3671749349716418,
-      "sortino": 5.596293664017872,
-      "max_drawdown": 48.7867626667786,
-      "inventory_variance": 9.864571018030198,
-      "final_inventory": 10.864473966090742,
-      "fill_rate": 0.07393375842580885
+      "total_pnl": 1.4319404771496238,
+      "sharpe": 0.006740496202492695,
+      "sortino": 0.008660005953642797,
+      "max_drawdown": 28.013624641227466,
+      "inventory_variance": 8.273896231850689,
+      "final_inventory": 10.33354654698801,
+      "fill_rate": 0.06357498220096913
     },
     {
-      "total_pnl": -110.31218274944399,
-      "sharpe": -8.34825346913637,
-      "sortino": -7.043339639401861,
-      "max_drawdown": 111.60299317219543,
-      "inventory_variance": 11.864639973229062,
-      "final_inventory": 10.052185240242913,
-      "fill_rate": 0.14014168884003386
+      "total_pnl": 15.060196054490689,
+      "sharpe": 0.7465811451032335,
+      "sortino": 1.1804083121519708,
+      "max_drawdown": 40.10675322493282,
+      "inventory_variance": 10.451460921000859,
+      "final_inventory": 10.373414626714919,
+      "fill_rate": 0.04616945756236911
     },
     {
-      "total_pnl": 30.363810092014546,
-      "sharpe": 1.2340766533252596,
-      "sortino": 1.5874696892420552,
-      "max_drawdown": 38.4526648727707,
-      "inventory_variance": 9.976645305372065,
-      "final_inventory": 10.309218617656894,
-      "fill_rate": 0.10648015994233487
+      "total_pnl": -9.057299664206766,
+      "sharpe": -0.5443607269467343,
+      "sortino": -0.5389671541667687,
+      "max_drawdown": 51.21560015344704,
+      "inventory_variance": 8.039897179961796,
+      "final_inventory": 10.606718666294213,
+      "fill_rate": 0.047039995023485874
     },
     {
-      "total_pnl": 63.62447378754541,
-      "sharpe": 1.7604369962384112,
-      "sortino": 5.007466183577781,
-      "max_drawdown": 25.456403649997924,
-      "inventory_variance": 10.51020507615487,
-      "final_inventory": 10.547857364921482,
-      "fill_rate": 0.0825516931902729
+      "total_pnl": 67.82216754007436,
+      "sharpe": 1.735685530445944,
+      "sortino": 2.1916054984640874,
+      "max_drawdown": 48.61684178722197,
+      "inventory_variance": 9.663033552522315,
+      "final_inventory": 10.957110651708122,
+      "fill_rate": 0.034460400669436494
     },
     {
-      "total_pnl": 59.25915488013561,
-      "sharpe": 2.5053082931643726,
-      "sortino": 4.865214956878171,
-      "max_drawdown": 29.768977758037636,
-      "inventory_variance": 7.429421025395719,
-      "final_inventory": 10.758937633578668,
-      "fill_rate": 0.12977128861384718
+      "total_pnl": -17.735576000324045,
+      "sharpe": -0.9949686604831143,
+      "sortino": -1.3692330374712116,
+      "max_drawdown": 49.15088671977321,
+      "inventory_variance": 9.617582162009924,
+      "final_inventory": 10.573476609598952,
+      "fill_rate": 0.051102163167366196
     }
   ],
   "DQN_no_vol": [
     {
-      "total_pnl": 203.97561932422946,
-      "sharpe": 2.3994870267630404,
-      "sortino": 3.961272168876149,
-      "max_drawdown": 46.718539122852576,
-      "inventory_variance": 6.113136223810154,
-      "final_inventory": 10.334500542528124,
-      "fill_rate": 0.036709823043238464
+      "total_pnl": 2.7671302278076837,
+      "sharpe": 0.4111666463498372,
+      "sortino": 0.33068726135698245,
+      "max_drawdown": 2.9469630684302857,
+      "inventory_variance": 0.05517725168444679,
+      "final_inventory": 0.6740246112277357,
+      "fill_rate": 0.004456707685379559
     },
     {
-      "total_pnl": 132.2000956386771,
-      "sharpe": 2.1717127707812036,
-      "sortino": 2.5544093585126233,
-      "max_drawdown": 65.4621482348166,
-      "inventory_variance": 6.9312612655624966,
-      "final_inventory": 10.328964821659467,
-      "fill_rate": 0.04193525449544036
+      "total_pnl": 15.543886913370493,
+      "sharpe": 3.0279044582086563,
+      "sortino": 3.7677987649589757,
+      "max_drawdown": 2.1320392724780675,
+      "inventory_variance": 0.07263869456338479,
+      "final_inventory": 0.5438875695097084,
+      "fill_rate": 0.0042398126158495145
     },
     {
-      "total_pnl": 45.9175359852793,
-      "sharpe": 0.48622880282804615,
-      "sortino": 0.6620044921529876,
-      "max_drawdown": 119.418562364237,
-      "inventory_variance": 8.794422099059929,
-      "final_inventory": 10.026233628275012,
-      "fill_rate": 0.022270803015324095
+      "total_pnl": -14.959526399240474,
+      "sharpe": -1.5871740544873008,
+      "sortino": -1.1037760321438683,
+      "max_drawdown": 19.19938090426703,
+      "inventory_variance": 0.900566666666667,
+      "final_inventory": 2.0,
+      "fill_rate": 0.006666666666666667
     },
     {
-      "total_pnl": 293.43766931461005,
-      "sharpe": 2.567107673178819,
-      "sortino": 4.217703528757967,
-      "max_drawdown": 70.7307150082421,
-      "inventory_variance": 7.202371251509858,
-      "final_inventory": 10.662351054416506,
-      "fill_rate": 0.02764705470396617
+      "total_pnl": 9.167243869776115,
+      "sharpe": 0.8311721484944882,
+      "sortino": 1.0928852970617302,
+      "max_drawdown": 10.199999999999989,
+      "inventory_variance": 0.17345555555555556,
+      "final_inventory": 1.0,
+      "fill_rate": 0.005
     },
     {
-      "total_pnl": 228.97930710305923,
-      "sharpe": 2.1229021379865807,
-      "sortino": 4.273148061933102,
-      "max_drawdown": 56.055814981726144,
-      "inventory_variance": 4.0606639816583385,
-      "final_inventory": 10.540802830289898,
-      "fill_rate": 0.04069730468467073
+      "total_pnl": 0.49743825265500163,
+      "sharpe": -0.07597435583153084,
+      "sortino": -0.10409391332616996,
+      "max_drawdown": 18.090165805286816,
+      "inventory_variance": 0.0066222222222222194,
+      "final_inventory": 1.409989540552363,
+      "fill_rate": 0.004316684099079394
     }
   ],
   "DQN_vol": [
     {
-      "total_pnl": 204.00481744044578,
-      "sharpe": 2.399875759970967,
-      "sortino": 3.9619833430845093,
-      "max_drawdown": 46.718539122852576,
-      "inventory_variance": 6.113136223810154,
-      "final_inventory": 10.334500542528124,
-      "fill_rate": 0.036709823043238464
+      "total_pnl": 44.53195583593714,
+      "sharpe": 3.4916710993716324,
+      "sortino": 4.36463162030658,
+      "max_drawdown": 12.026993862691427,
+      "inventory_variance": 0.37748950670574444,
+      "final_inventory": 1.3620604601009565,
+      "fill_rate": 0.005603434100168261
     },
     {
-      "total_pnl": -24.55447972015463,
-      "sharpe": -0.6396899697191267,
-      "sortino": -0.7507578257020929,
-      "max_drawdown": 118.27258475558472,
-      "inventory_variance": 5.213112326020175,
-      "final_inventory": 10.278939522121362,
-      "fill_rate": 0.05903336308712193
+      "total_pnl": -52.805663862749554,
+      "sharpe": -3.3922721170926917,
+      "sortino": -2.991037949802757,
+      "max_drawdown": 65.18552746797813,
+      "inventory_variance": 1.526788888888889,
+      "final_inventory": 4.0,
+      "fill_rate": 0.01
     },
     {
-      "total_pnl": -76.13428691183753,
-      "sharpe": -1.1151681097837431,
-      "sortino": -1.528100763169556,
-      "max_drawdown": 221.85921382490278,
-      "inventory_variance": 8.20798235719794,
-      "final_inventory": 10.11883141261401,
-      "fill_rate": 0.040941998015587865
+      "total_pnl": -23.72842926992071,
+      "sharpe": -4.44679718041743,
+      "sortino": -4.138622523247651,
+      "max_drawdown": 26.659999999999997,
+      "inventory_variance": 0.13212222222222222,
+      "final_inventory": 1.0,
+      "fill_rate": 0.005
     },
     {
-      "total_pnl": 41.8036929911118,
-      "sharpe": 0.43639582562211215,
-      "sortino": 0.5462713480573261,
-      "max_drawdown": 111.21836723361162,
-      "inventory_variance": 7.41471618531036,
-      "final_inventory": 10.29671911035339,
-      "fill_rate": 0.04269694135539372
+      "total_pnl": 28.130319586664427,
+      "sharpe": 1.8928140469051076,
+      "sortino": 2.414376179689695,
+      "max_drawdown": 10.763349610191867,
+      "inventory_variance": 0.667341994782254,
+      "final_inventory": 3.040595225758928,
+      "fill_rate": 0.008400992042931547
     },
     {
-      "total_pnl": 216.4745822281768,
-      "sharpe": 2.5686833436453447,
-      "sortino": 4.214413081614319,
-      "max_drawdown": 79.4126474402492,
-      "inventory_variance": 6.497895914245686,
-      "final_inventory": 10.96842235871879,
-      "fill_rate": 0.041604257800048165
+      "total_pnl": -20.643291907313312,
+      "sharpe": -1.923753395521143,
+      "sortino": -2.3231624237876094,
+      "max_drawdown": 33.37445242487446,
+      "inventory_variance": 0.0066222222222222194,
+      "final_inventory": 1.409989540552363,
+      "fill_rate": 0.004316684099079394
     }
   ]
 }

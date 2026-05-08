@@ -30,3 +30,8 @@ training:
   total_timesteps: 200000
   eval_freq: 5000
   seed: 42
+vol_model:
+  weights_path: "/home/plugga404/Documents/VS files/QUANTS/QUANT1/sage_vol_best.pt"
+  min_history: 30
+  default_vol: 0.02
+  device: "cpu"

@@ -112,6 +112,15 @@ class LOBSimulator:
     # ------------------------------------------------------------------
 
     def reset(self, seed: Optional[int] = None) -> LOBState:
+
+        import numpy as np
+        _REGIMES = [0.008, 0.014, 0.020, 0.030, 0.045]
+        rng = np.random.default_rng(seed)
+        self.sigma = float(rng.choice(_REGIMES))
+
+        import random
+        _REGIMES = [0.008, 0.014, 0.020, 0.030, 0.045]
+        self.sigma = random.choice(_REGIMES)
         """Reset the simulator to its initial state."""
         if seed is not None:
             self.rng = np.random.default_rng(seed)
