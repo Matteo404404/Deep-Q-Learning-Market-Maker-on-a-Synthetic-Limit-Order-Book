@@ -1,4 +1,4 @@
-# QUANT2 — Deep Q-Learning Market Maker on a Synthetic Limit Order Book
+# Deep Q-Learning Market Maker on a Synthetic Limit Order Book
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-2.x-green.svg)](https://stable-baselines3.readthedocs.io/)
